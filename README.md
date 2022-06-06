@@ -7,7 +7,7 @@ streamlit : pip install streamlit
 numpy : pip install numpy   
 pandas : pip install pandas  
   
-To start the streamlit app:
+To start the streamlit app:  
 1.) Install all packages  
 2.) Run the bloomfilter_flajolet_online.py  
 3.) Go to http://localhost:8501/  
